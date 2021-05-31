@@ -9,8 +9,8 @@ post:
   relate_posts: 随便看看
   share: 分享
   button:
-    next: 上一篇
-    previous: 下一篇
+    next: 下一篇
+    previous: 上一篇
 
 search_hint: Search   # text show on search bar
 
