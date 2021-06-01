@@ -26,10 +26,7 @@
   --checkbox-checked-color: #07a8f7;
 
   /* Sidebar */
-  --sidebar-bg: -webkit-linear-gradient(left top,rgba(242,245,208, 1),rgba(249,149,127, 1));
-  --sidebar-bg: linear-gradient(left top,rgba(242,245,208, 1),rgba(249,149,127, 1));
-  --sidebar-bg: -o-linear-gradient(left top,rgba(242,245,208, 1),rgba(249,149,127, 1));
-  --sidebar-bg: -moz-linear-gradient(left top,rgba(242,245,208, 1),rgba(249,149,127, 1));
+  --sidebar-bg: -webkit-linear-gradient(left top,rgba(242,245,208, 1),rgba(249,149,127, 1));linear-gradient(left top,rgba(242,245,208, 1),rgba(249,149,127, 1));-o-linear-gradient(left top,rgba(242,245,208, 1),rgba(249,149,127, 1));-moz-linear-gradient(left top,rgba(242,245,208, 1),rgba(249,149,127, 1));
   --nav-cursor-color: #fcfcfc;
 
   /* Topbar */
