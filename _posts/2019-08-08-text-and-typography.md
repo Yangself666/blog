@@ -2,8 +2,8 @@
 title: Text and Typography
 author: Cotes Chung
 date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+categories: [解决方案, 教程]
+tags: [博客]
 math: true
 mermaid: true
 image:
